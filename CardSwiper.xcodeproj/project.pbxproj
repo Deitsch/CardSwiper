@@ -12,7 +12,7 @@
 		89197F592BF24434002B03A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 89197F582BF24434002B03A4 /* Assets.xcassets */; };
 		89197F5D2BF24434002B03A4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 89197F5C2BF24434002B03A4 /* Preview Assets.xcassets */; };
 		89197F802BF2444B002B03A4 /* SwiperView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89197F7F2BF2444B002B03A4 /* SwiperView.swift */; };
-		89197F822BF24468002B03A4 /* PrewviewHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89197F812BF24468002B03A4 /* PrewviewHelper.swift */; };
+		89197F822BF24468002B03A4 /* PreviewHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89197F812BF24468002B03A4 /* PreviewHelper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		89197F5A2BF24434002B03A4 /* CardSwiper.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = CardSwiper.entitlements; sourceTree = "<group>"; };
 		89197F5C2BF24434002B03A4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		89197F7F2BF2444B002B03A4 /* SwiperView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiperView.swift; sourceTree = "<group>"; };
-		89197F812BF24468002B03A4 /* PrewviewHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrewviewHelper.swift; sourceTree = "<group>"; };
+		89197F812BF24468002B03A4 /* PreviewHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewHelper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +59,7 @@
 				89197F542BF24432002B03A4 /* CardSwiperApp.swift */,
 				89197F562BF24432002B03A4 /* SwiperStackView.swift */,
 				89197F7F2BF2444B002B03A4 /* SwiperView.swift */,
-				89197F812BF24468002B03A4 /* PrewviewHelper.swift */,
+				89197F812BF24468002B03A4 /* PreviewHelper.swift */,
 				89197F582BF24434002B03A4 /* Assets.xcassets */,
 				89197F5A2BF24434002B03A4 /* CardSwiper.entitlements */,
 				89197F5B2BF24434002B03A4 /* Preview Content */,
@@ -145,7 +145,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				89197F822BF24468002B03A4 /* PrewviewHelper.swift in Sources */,
+				89197F822BF24468002B03A4 /* PreviewHelper.swift in Sources */,
 				89197F572BF24432002B03A4 /* SwiperStackView.swift in Sources */,
 				89197F802BF2444B002B03A4 /* SwiperView.swift in Sources */,
 				89197F552BF24432002B03A4 /* CardSwiperApp.swift in Sources */,
